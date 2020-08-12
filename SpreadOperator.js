@@ -32,6 +32,7 @@ function spreadOut() {
 console.log(spreadOut());
 
 
+console.log(' spread operator ');
 console.log(copyMachine([true, false, true], 2));
 
 
