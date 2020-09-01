@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RecordCollection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/titleCase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,14 +51,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Node.js.findElement.js">
-    <configuration name="MultipleConditionalOperators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/MultipleConditionalOperators.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.BinarySearchTree.js">
+    <configuration name="BinarySearchTree.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BinarySearchTree.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="SpreadOperator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/SpreadOperator.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="countDown.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/countDown.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="findElement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/findElement.js" working-dir="$PROJECT_DIR$">
@@ -68,13 +64,16 @@
     <configuration name="rangeOfNumbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/rangeOfNumbers.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="titleCase.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/titleCase.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.BinarySearchTree.js" />
+        <item itemvalue="Node.js.titleCase.js" />
         <item itemvalue="Node.js.findElement.js" />
         <item itemvalue="Node.js.rangeOfNumbers.js" />
         <item itemvalue="Node.js.SpreadOperator.js" />
-        <item itemvalue="Node.js.countDown.js" />
-        <item itemvalue="Node.js.MultipleConditionalOperators.js" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +88,8 @@
       <workItem from="1597077696432" duration="2925000" />
       <workItem from="1597162846811" duration="4384000" />
       <workItem from="1597248838138" duration="7636000" />
-      <workItem from="1597661702136" duration="472000" />
+      <workItem from="1597661702136" duration="583000" />
+      <workItem from="1597748274295" duration="871000" />
     </task>
     <servers />
   </component>
@@ -109,21 +109,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="124" key="GridCell.Tab.0.bottom" timestamp="1597661958007">
+    <state width="1343" height="124" key="GridCell.Tab.0.bottom" timestamp="1597749144761">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="124" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1597661958007" />
-    <state width="1343" height="124" key="GridCell.Tab.0.center" timestamp="1597661958007">
+    <state width="1343" height="124" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1597749144761" />
+    <state width="1343" height="124" key="GridCell.Tab.0.center" timestamp="1597749144760">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="124" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1597661958007" />
-    <state width="1343" height="124" key="GridCell.Tab.0.left" timestamp="1597661958007">
+    <state width="1343" height="124" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1597749144760" />
+    <state width="1343" height="124" key="GridCell.Tab.0.left" timestamp="1597749144760">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="124" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1597661958007" />
-    <state width="1343" height="124" key="GridCell.Tab.0.right" timestamp="1597661958007">
+    <state width="1343" height="124" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1597749144760" />
+    <state width="1343" height="124" key="GridCell.Tab.0.right" timestamp="1597749144761">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="124" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1597661958007" />
+    <state width="1343" height="124" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1597749144761" />
   </component>
 </project>
