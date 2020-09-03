@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/titleCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BSTInsert.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree.js" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +50,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.BinarySearchTree.js">
-    <configuration name="BinarySearchTree.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BinarySearchTree.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.BSTInsert.js">
+    <configuration name="BSTInsert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BSTInsert.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="SpreadOperator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/SpreadOperator.js" working-dir="$PROJECT_DIR$">
+    <configuration name="BinarySearchTree.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BinarySearchTree.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="findElement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/findElement.js" working-dir="$PROJECT_DIR$">
@@ -69,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.BSTInsert.js" />
         <item itemvalue="Node.js.BinarySearchTree.js" />
         <item itemvalue="Node.js.titleCase.js" />
         <item itemvalue="Node.js.findElement.js" />
         <item itemvalue="Node.js.rangeOfNumbers.js" />
-        <item itemvalue="Node.js.SpreadOperator.js" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +98,9 @@
       <workItem from="1597248838138" duration="7636000" />
       <workItem from="1597661702136" duration="583000" />
       <workItem from="1597748274295" duration="871000" />
+      <workItem from="1598943645666" duration="902000" />
+      <workItem from="1599054442227" duration="137000" />
+      <workItem from="1599103398407" duration="3326000" />
     </task>
     <servers />
   </component>
@@ -109,21 +120,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="124" key="GridCell.Tab.0.bottom" timestamp="1597749144761">
+    <state width="1258" height="165" key="GridCell.Tab.0.bottom" timestamp="1599105196317">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="124" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1597749144761" />
-    <state width="1343" height="124" key="GridCell.Tab.0.center" timestamp="1597749144760">
+    <state width="1258" height="165" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1599105196317" />
+    <state width="1258" height="165" key="GridCell.Tab.0.center" timestamp="1599105196315">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="124" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1597749144760" />
-    <state width="1343" height="124" key="GridCell.Tab.0.left" timestamp="1597749144760">
+    <state width="1258" height="165" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1599105196315" />
+    <state width="1258" height="165" key="GridCell.Tab.0.left" timestamp="1599105196314">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="124" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1597749144760" />
-    <state width="1343" height="124" key="GridCell.Tab.0.right" timestamp="1597749144761">
+    <state width="1258" height="165" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1599105196314" />
+    <state width="1258" height="165" key="GridCell.Tab.0.right" timestamp="1599105196316">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="124" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1597749144761" />
+    <state width="1258" height="165" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1599105196316" />
   </component>
 </project>
