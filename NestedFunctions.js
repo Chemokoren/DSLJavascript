@@ -1,0 +1,15 @@
+var add =(function() {
+    var counter = 0;
+    return function () {counter += 1; return counter;}
+})();
+add();
+add();
+console.log(add())
+
+function fun1(a) {
+    fun = function fun2(b) {
+        return a + b;
+    }
+    return fun;
+}
+console.log(fun1(10))

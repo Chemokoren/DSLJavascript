@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BSTInsert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JoinnedLogger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NestedFunctions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearchTree.js" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BSTInsert.js" beforeDir="false" afterPath="$PROJECT_DIR$/BSTInsert.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,29 +62,29 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.BSTInsert.js">
+  <component name="RunManager" selected="Node.js.BFS.js">
+    <configuration name="BFS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BFS.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="BSTInsert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BSTInsert.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="BinarySearchTree.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BinarySearchTree.js" working-dir="$PROJECT_DIR$">
+    <configuration name="FizzBuzz.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/FizzBuzz.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="findElement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/findElement.js" working-dir="$PROJECT_DIR$">
+    <configuration name="JoinnedLogger.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JoinnedLogger.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="rangeOfNumbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/rangeOfNumbers.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="titleCase.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/titleCase.js" working-dir="$PROJECT_DIR$">
+    <configuration name="NestedFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NestedFunctions.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.BFS.js" />
+        <item itemvalue="Node.js.JoinnedLogger.js" />
+        <item itemvalue="Node.js.NestedFunctions.js" />
+        <item itemvalue="Node.js.FizzBuzz.js" />
         <item itemvalue="Node.js.BSTInsert.js" />
-        <item itemvalue="Node.js.BinarySearchTree.js" />
-        <item itemvalue="Node.js.titleCase.js" />
-        <item itemvalue="Node.js.findElement.js" />
-        <item itemvalue="Node.js.rangeOfNumbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +103,10 @@
       <workItem from="1597748274295" duration="871000" />
       <workItem from="1598943645666" duration="902000" />
       <workItem from="1599054442227" duration="137000" />
-      <workItem from="1599103398407" duration="3326000" />
+      <workItem from="1599103398407" duration="4372000" />
+      <workItem from="1599451338435" duration="2380000" />
+      <workItem from="1599614065902" duration="4118000" />
+      <workItem from="1599812168010" duration="3015000" />
     </task>
     <servers />
   </component>
@@ -120,21 +126,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1258" height="165" key="GridCell.Tab.0.bottom" timestamp="1599105196317">
+    <state width="1343" height="195" key="GridCell.Tab.0.bottom" timestamp="1599815206730">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1258" height="165" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1599105196317" />
-    <state width="1258" height="165" key="GridCell.Tab.0.center" timestamp="1599105196315">
+    <state width="1343" height="195" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1599815206730" />
+    <state width="1343" height="195" key="GridCell.Tab.0.center" timestamp="1599815206728">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1258" height="165" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1599105196315" />
-    <state width="1258" height="165" key="GridCell.Tab.0.left" timestamp="1599105196314">
+    <state width="1343" height="195" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1599815206728" />
+    <state width="1343" height="195" key="GridCell.Tab.0.left" timestamp="1599815206727">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1258" height="165" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1599105196314" />
-    <state width="1258" height="165" key="GridCell.Tab.0.right" timestamp="1599105196316">
+    <state width="1343" height="195" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1599815206727" />
+    <state width="1343" height="195" key="GridCell.Tab.0.right" timestamp="1599815206730">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1258" height="165" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1599105196316" />
+    <state width="1343" height="195" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1599815206730" />
   </component>
 </project>
