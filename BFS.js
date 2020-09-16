@@ -79,8 +79,58 @@ class BinarySearchTree {
         }
         return data;
     }
+    // visit the node then recusiverly visit the left side of the tree, then recursively visit the right side of the tree
+    DFSPreOrder(){
+        var data =[];
+        function traverse(node){
+            data.push(node.value);
+            if(node.left) traverse(node.left);
+            if(node.right) traverse(node.right);
+        }
+        traverse(this.root);
+        return data;
+    }
+
+    // in post order, the root is the last thing visited after visiting the left branch and right branch -explore all children before exploring the node
+    DFSPostOrder(){
+        var data =[];
+        function traverse(node){
+            if(node.left) traverse(node.left);
+            if(node.right) traverse(node.right);
+            data.push(node.value)
+        }
+        traverse(this.root)
+        return data;
+    }
+    // traverse left branch, node then right branch
+    DFSInOrder(){
+        var data =[];
+        function traverse(node){
+            if(node.left) traverse(node.left)
+            data.push(node.value)
+            if(node.right) traverse(node.right);
+        }
+        traverse(this.root);
+        return data;
+
+    }
+    //another approach of inorder
+    DFSInOrderUpdated(){
+        var data =[];
+        function traverse(node){
+            node.left && traverse(node.left)
+            data.push(node.value)
+            node.right && traverse(node.right);
+        }
+        traverse(this.root);
+        return data;
+
+    }
 }
 
+//              10
+//          6       15
+//      3       8       20
 
 var tree = new BinarySearchTree();
 tree.insert(10);
@@ -89,5 +139,11 @@ tree.insert(15);
 tree.insert(3);
 tree.insert(8);
 tree.insert(20);
-console.log(tree.BFS());
+console.log(tree.BFS()); //[ 10, 6, 15, 3, 8, 20 ]
+console.log(tree.DFSPreOrder()); //[ 10, 6, 3, 8, 15, 20 ]
+console.log(tree.DFSPostOrder()); //[ 3, 8, 6, 20, 15, 10 ]
+console.log(tree.DFSInOrder()); //[ 3, 6, 8, 10, 15, 20 ]
+console.log(tree.DFSInOrderUpdated()); //[ 3, 6, 8, 10, 15, 20 ]
+
+
 
