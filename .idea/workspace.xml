@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Graphs/Graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/PriorityQueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/WeightedGraph.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graphs/Graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/Graph.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,29 +61,29 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Graph.js">
+  <component name="RunManager" selected="Node.js.Dijkstra_First_Version.js">
     <configuration name="BFS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BFS.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="FizzBuzz.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/FizzBuzz.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Dijkstra_First_Version.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" working-dir="$PROJECT_DIR$/Graphs">
       <method v="2" />
     </configuration>
     <configuration name="Graph.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/Graph.js" working-dir="$PROJECT_DIR$/Graphs">
       <method v="2" />
     </configuration>
-    <configuration name="JoinnedLogger.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JoinnedLogger.js" working-dir="$PROJECT_DIR$">
+    <configuration name="PriorityQueue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/PriorityQueue.js" working-dir="$PROJECT_DIR$/Graphs">
       <method v="2" />
     </configuration>
-    <configuration name="NestedFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NestedFunctions.js" working-dir="$PROJECT_DIR$">
+    <configuration name="WeightedGraph.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/WeightedGraph.js" working-dir="$PROJECT_DIR$/Graphs">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Dijkstra_First_Version.js" />
+        <item itemvalue="Node.js.WeightedGraph.js" />
+        <item itemvalue="Node.js.PriorityQueue.js" />
         <item itemvalue="Node.js.Graph.js" />
         <item itemvalue="Node.js.BFS.js" />
-        <item itemvalue="Node.js.JoinnedLogger.js" />
-        <item itemvalue="Node.js.NestedFunctions.js" />
-        <item itemvalue="Node.js.FizzBuzz.js" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +106,8 @@
       <workItem from="1599451338435" duration="2380000" />
       <workItem from="1599614065902" duration="4118000" />
       <workItem from="1599812168010" duration="3100000" />
-      <workItem from="1600215364861" duration="11329000" />
+      <workItem from="1600215364861" duration="12016000" />
+      <workItem from="1600301675451" duration="10648000" />
     </task>
     <servers />
   </component>
@@ -123,21 +127,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="501" key="GridCell.Tab.0.bottom" timestamp="1600231088588">
+    <state width="1343" height="130" key="GridCell.Tab.0.bottom" timestamp="1600327209052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="501" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600231088588" />
-    <state width="1343" height="501" key="GridCell.Tab.0.center" timestamp="1600231088587">
+    <state width="1343" height="130" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600327209052" />
+    <state width="1343" height="130" key="GridCell.Tab.0.center" timestamp="1600327209052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="501" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600231088587" />
-    <state width="1343" height="501" key="GridCell.Tab.0.left" timestamp="1600231088586">
+    <state width="1343" height="130" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600327209052" />
+    <state width="1343" height="130" key="GridCell.Tab.0.left" timestamp="1600327209050">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="501" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600231088586" />
-    <state width="1343" height="501" key="GridCell.Tab.0.right" timestamp="1600231088588">
+    <state width="1343" height="130" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600327209050" />
+    <state width="1343" height="130" key="GridCell.Tab.0.right" timestamp="1600327209052">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="501" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600231088588" />
+    <state width="1343" height="130" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600327209052" />
   </component>
 </project>
