@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HashTables/HashTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTables/hashfunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Heaps/Max_Binary_Heap_Insert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/Dijkstra.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,17 +60,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.HashTable.js">
+  <component name="RunManager" selected="Node.js.Max_Binary_Heap_Insert.js">
     <configuration name="Dijkstra_First_Version.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" working-dir="$PROJECT_DIR$/Graphs">
       <method v="2" />
     </configuration>
-    <configuration name="Graph.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/Graph.js" working-dir="$PROJECT_DIR$/Graphs">
+    <configuration name="Dijkstra.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/Dijkstra.js" working-dir="$PROJECT_DIR$/Graphs">
       <method v="2" />
     </configuration>
     <configuration name="HashTable.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HashTables/HashTable.js" working-dir="$PROJECT_DIR$/HashTables">
       <method v="2" />
     </configuration>
-    <configuration name="PriorityQueue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/PriorityQueue.js" working-dir="$PROJECT_DIR$/Graphs">
+    <configuration name="Max_Binary_Heap_Insert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Binary Heaps/Max_Binary_Heap_Insert.js" working-dir="$PROJECT_DIR$/Binary Heaps">
       <method v="2" />
     </configuration>
     <configuration name="WeightedGraph.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/WeightedGraph.js" working-dir="$PROJECT_DIR$/Graphs">
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.HashTable.js" />
+        <item itemvalue="Node.js.Max_Binary_Heap_Insert.js" />
         <item itemvalue="Node.js.Dijkstra_First_Version.js" />
+        <item itemvalue="Node.js.Dijkstra.js" />
+        <item itemvalue="Node.js.HashTable.js" />
         <item itemvalue="Node.js.WeightedGraph.js" />
-        <item itemvalue="Node.js.PriorityQueue.js" />
-        <item itemvalue="Node.js.Graph.js" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +107,10 @@
       <workItem from="1599812168010" duration="3100000" />
       <workItem from="1600215364861" duration="12016000" />
       <workItem from="1600301675451" duration="10807000" />
-      <workItem from="1600392469497" duration="2938000" />
+      <workItem from="1600392469497" duration="6040000" />
+      <workItem from="1600487402965" duration="632000" />
+      <workItem from="1600647471585" duration="594000" />
+      <workItem from="1600655610886" duration="5520000" />
     </task>
     <servers />
   </component>
@@ -126,21 +130,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="130" key="GridCell.Tab.0.bottom" timestamp="1600395345483">
+    <state width="1343" height="425" key="GridCell.Tab.0.bottom" timestamp="1600669068600">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="130" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600395345483" />
-    <state width="1343" height="130" key="GridCell.Tab.0.center" timestamp="1600395345483">
+    <state width="1343" height="425" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600669068600" />
+    <state width="1343" height="425" key="GridCell.Tab.0.center" timestamp="1600669068598">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="130" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600395345483" />
-    <state width="1343" height="130" key="GridCell.Tab.0.left" timestamp="1600395345482">
+    <state width="1343" height="425" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600669068598" />
+    <state width="1343" height="425" key="GridCell.Tab.0.left" timestamp="1600669068597">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="130" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600395345482" />
-    <state width="1343" height="130" key="GridCell.Tab.0.right" timestamp="1600395345483">
+    <state width="1343" height="425" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600669068597" />
+    <state width="1343" height="425" key="GridCell.Tab.0.right" timestamp="1600669068599">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="130" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600395345483" />
+    <state width="1343" height="425" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600669068599" />
   </component>
 </project>
