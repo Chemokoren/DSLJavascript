@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Heaps/PriorityQueue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/record_collection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/ownProperties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/charCount.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Heaps/Max_Binary_Heap_Insert.js" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Heaps/Max_Binary_Heap_Insert.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +59,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.record_collection.js">
-    <configuration name="Dijkstra_First_Version.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" working-dir="$PROJECT_DIR$/Graphs">
-      <method v="2" />
-    </configuration>
-    <configuration name="Dijkstra.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/Dijkstra.js" working-dir="$PROJECT_DIR$/Graphs">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.ownProperties.js">
     <configuration name="Max_Binary_Heap_Insert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Binary Heaps/Max_Binary_Heap_Insert.js" working-dir="$PROJECT_DIR$/Binary Heaps">
       <method v="2" />
     </configuration>
     <configuration name="PriorityQueue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Binary Heaps/PriorityQueue.js" working-dir="$PROJECT_DIR$/Binary Heaps">
+      <method v="2" />
+    </configuration>
+    <configuration name="charCount.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/charCount.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="ownProperties.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/OOP/ownProperties.js" working-dir="$PROJECT_DIR$/OOP">
       <method v="2" />
     </configuration>
     <configuration name="record_collection.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/record_collection.js" working-dir="$PROJECT_DIR$">
@@ -78,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.ownProperties.js" />
+        <item itemvalue="Node.js.charCount.js" />
         <item itemvalue="Node.js.record_collection.js" />
         <item itemvalue="Node.js.PriorityQueue.js" />
         <item itemvalue="Node.js.Max_Binary_Heap_Insert.js" />
-        <item itemvalue="Node.js.Dijkstra_First_Version.js" />
-        <item itemvalue="Node.js.Dijkstra.js" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +110,8 @@
       <workItem from="1600487402965" duration="632000" />
       <workItem from="1600647471585" duration="594000" />
       <workItem from="1600655610886" duration="6242000" />
-      <workItem from="1600733674205" duration="10168000" />
+      <workItem from="1600733674205" duration="10816000" />
+      <workItem from="1600821114718" duration="5268000" />
     </task>
     <servers />
   </component>
@@ -131,21 +131,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="300" key="GridCell.Tab.0.bottom" timestamp="1600747616359">
+    <state width="1343" height="132" key="GridCell.Tab.0.bottom" timestamp="1600831889868">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="300" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600747616359" />
-    <state width="1343" height="300" key="GridCell.Tab.0.center" timestamp="1600747616358">
+    <state width="1343" height="132" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600831889868" />
+    <state width="1343" height="132" key="GridCell.Tab.0.center" timestamp="1600831889866">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="300" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600747616358" />
-    <state width="1343" height="300" key="GridCell.Tab.0.left" timestamp="1600747616357">
+    <state width="1343" height="132" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600831889866" />
+    <state width="1343" height="132" key="GridCell.Tab.0.left" timestamp="1600831889865">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="300" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600747616357" />
-    <state width="1343" height="300" key="GridCell.Tab.0.right" timestamp="1600747616358">
+    <state width="1343" height="132" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600831889865" />
+    <state width="1343" height="132" key="GridCell.Tab.0.right" timestamp="1600831889867">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="300" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600747616358" />
+    <state width="1343" height="132" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600831889867" />
   </component>
 </project>
