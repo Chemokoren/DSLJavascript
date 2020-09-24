@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/ownProperties.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksAndQueues/QueueUsingLinkedList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksAndQueues/callstack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksAndQueues/queueUsingArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksAndQueues/stackUsingArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksAndQueues/stackUsingLinkedList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,29 +62,34 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.ownProperties.js">
-    <configuration name="Max_Binary_Heap_Insert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Binary Heaps/Max_Binary_Heap_Insert.js" working-dir="$PROJECT_DIR$/Binary Heaps">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/StacksAndQueues" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.QueueUsingLinkedList.js">
+    <configuration name="QueueUsingLinkedList.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/QueueUsingLinkedList.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
       <method v="2" />
     </configuration>
-    <configuration name="PriorityQueue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Binary Heaps/PriorityQueue.js" working-dir="$PROJECT_DIR$/Binary Heaps">
+    <configuration name="callstack.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/callstack.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="charCount.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/charCount.js" working-dir="$PROJECT_DIR$">
+    <configuration name="queueUsingArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/queueUsingArray.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
       <method v="2" />
     </configuration>
-    <configuration name="ownProperties.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/OOP/ownProperties.js" working-dir="$PROJECT_DIR$/OOP">
+    <configuration name="stackUsingArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/stackUsingArray.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
       <method v="2" />
     </configuration>
-    <configuration name="record_collection.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/record_collection.js" working-dir="$PROJECT_DIR$">
+    <configuration name="stackUsingLinkedList.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/stackUsingLinkedList.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.ownProperties.js" />
-        <item itemvalue="Node.js.charCount.js" />
-        <item itemvalue="Node.js.record_collection.js" />
-        <item itemvalue="Node.js.PriorityQueue.js" />
-        <item itemvalue="Node.js.Max_Binary_Heap_Insert.js" />
+        <item itemvalue="Node.js.QueueUsingLinkedList.js" />
+        <item itemvalue="Node.js.queueUsingArray.js" />
+        <item itemvalue="Node.js.stackUsingLinkedList.js" />
+        <item itemvalue="Node.js.stackUsingArray.js" />
+        <item itemvalue="Node.js.callstack.js" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +119,8 @@
       <workItem from="1600647471585" duration="594000" />
       <workItem from="1600655610886" duration="6242000" />
       <workItem from="1600733674205" duration="10816000" />
-      <workItem from="1600821114718" duration="5268000" />
+      <workItem from="1600821114718" duration="5714000" />
+      <workItem from="1600907036773" duration="5767000" />
     </task>
     <servers />
   </component>
@@ -131,21 +140,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="132" key="GridCell.Tab.0.bottom" timestamp="1600831889868">
+    <state width="1343" height="247" key="GridCell.Tab.0.bottom" timestamp="1600915378606">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="132" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600831889868" />
-    <state width="1343" height="132" key="GridCell.Tab.0.center" timestamp="1600831889866">
+    <state width="1343" height="247" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600915378606" />
+    <state width="1343" height="247" key="GridCell.Tab.0.center" timestamp="1600915378606">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="132" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600831889866" />
-    <state width="1343" height="132" key="GridCell.Tab.0.left" timestamp="1600831889865">
+    <state width="1343" height="247" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600915378606" />
+    <state width="1343" height="247" key="GridCell.Tab.0.left" timestamp="1600915378605">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="132" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600831889865" />
-    <state width="1343" height="132" key="GridCell.Tab.0.right" timestamp="1600831889867">
+    <state width="1343" height="247" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600915378605" />
+    <state width="1343" height="247" key="GridCell.Tab.0.right" timestamp="1600915378606">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="132" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600831889867" />
+    <state width="1343" height="247" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600915378606" />
   </component>
 </project>
