@@ -46,6 +46,7 @@ class Queue{
 var q =new Queue();
 q.enqueue("FIRST")
 q.enqueue("SECOND")
+//
 q.enqueue("THIRD")
 q.enqueue("FOURTH")
 

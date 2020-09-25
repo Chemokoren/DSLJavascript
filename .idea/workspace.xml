@@ -20,12 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StacksAndQueues/QueueUsingLinkedList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StacksAndQueues/callstack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StacksAndQueues/queueUsingArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StacksAndQueues/stackUsingArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StacksAndQueues/stackUsingLinkedList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Singly_Linked_List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Get.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Insert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Pop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Remove.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Shift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Unshift.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StacksAndQueues/QueueUsingLinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/StacksAndQueues/QueueUsingLinkedList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,29 +72,29 @@
       <recent name="$PROJECT_DIR$/StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.QueueUsingLinkedList.js">
-    <configuration name="QueueUsingLinkedList.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/QueueUsingLinkedList.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
+  <component name="RunManager" selected="Node.js.Singly_Linked_List_Remove.js">
+    <configuration name="Singly_Linked_List_Get.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Get.js" working-dir="$PROJECT_DIR$/LinkedList">
       <method v="2" />
     </configuration>
-    <configuration name="callstack.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/callstack.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Singly_Linked_List_Insert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Insert.js" working-dir="$PROJECT_DIR$/LinkedList">
       <method v="2" />
     </configuration>
-    <configuration name="queueUsingArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/queueUsingArray.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
+    <configuration name="Singly_Linked_List_Remove.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Remove.js" working-dir="$PROJECT_DIR$/LinkedList">
       <method v="2" />
     </configuration>
-    <configuration name="stackUsingArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/stackUsingArray.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
+    <configuration name="Singly_Linked_List_Set.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Set.js" working-dir="$PROJECT_DIR$/LinkedList">
       <method v="2" />
     </configuration>
-    <configuration name="stackUsingLinkedList.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/stackUsingLinkedList.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
+    <configuration name="Singly_Linked_List_Unshift.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LinkedList/Singly_Linked_List_Unshift.js" working-dir="$PROJECT_DIR$/LinkedList">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.QueueUsingLinkedList.js" />
-        <item itemvalue="Node.js.queueUsingArray.js" />
-        <item itemvalue="Node.js.stackUsingLinkedList.js" />
-        <item itemvalue="Node.js.stackUsingArray.js" />
-        <item itemvalue="Node.js.callstack.js" />
+        <item itemvalue="Node.js.Singly_Linked_List_Remove.js" />
+        <item itemvalue="Node.js.Singly_Linked_List_Insert.js" />
+        <item itemvalue="Node.js.Singly_Linked_List_Set.js" />
+        <item itemvalue="Node.js.Singly_Linked_List_Get.js" />
+        <item itemvalue="Node.js.Singly_Linked_List_Unshift.js" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +125,8 @@
       <workItem from="1600655610886" duration="6242000" />
       <workItem from="1600733674205" duration="10816000" />
       <workItem from="1600821114718" duration="5714000" />
-      <workItem from="1600907036773" duration="5767000" />
+      <workItem from="1600907036773" duration="6650000" />
+      <workItem from="1600993724761" duration="12909000" />
     </task>
     <servers />
   </component>
@@ -140,21 +146,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="247" key="GridCell.Tab.0.bottom" timestamp="1600915378606">
+    <state width="1343" height="478" key="GridCell.Tab.0.bottom" timestamp="1601006308293">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600915378606" />
-    <state width="1343" height="247" key="GridCell.Tab.0.center" timestamp="1600915378606">
+    <state width="1343" height="478" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601006308293" />
+    <state width="1343" height="478" key="GridCell.Tab.0.center" timestamp="1601006308292">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600915378606" />
-    <state width="1343" height="247" key="GridCell.Tab.0.left" timestamp="1600915378605">
+    <state width="1343" height="478" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601006308292" />
+    <state width="1343" height="478" key="GridCell.Tab.0.left" timestamp="1601006308292">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600915378605" />
-    <state width="1343" height="247" key="GridCell.Tab.0.right" timestamp="1600915378606">
+    <state width="1343" height="478" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601006308292" />
+    <state width="1343" height="478" key="GridCell.Tab.0.right" timestamp="1601006308292">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600915378606" />
+    <state width="1343" height="478" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601006308292" />
   </component>
 </project>
