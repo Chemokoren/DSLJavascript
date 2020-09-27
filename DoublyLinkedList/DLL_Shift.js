@@ -41,11 +41,28 @@ class DoublyLinkedList {
             // poppedNode.prev=null;
         }
         this.length--;
-        console.log("###############test not setting prev of popposed value not null#####################")
-        console.log(poppedNode.prev)
-        console.log(poppedNode.prev.prev)
-        console.log("############### END #####################")
+        // console.log("###############test not setting prev of popposed value not null#####################")
+        // console.log(poppedNode.prev)
+        // console.log(poppedNode.prev.prev)
+        // console.log("############### END #####################")
         return poppedNode;
+
+    }
+    shift(){
+        if (!this.head) return undefined;
+
+        var shiftedNode = this.head;
+        if (this.length === 1) {
+            this.head = null;
+            this.tail = null;
+        }
+        else{
+            this.head =shiftedNode.next;
+            this.head.prev=null;
+            shiftedNode.next=null;
+        }
+        this.length--;
+        return shiftedNode;
 
     }
 }
@@ -59,6 +76,6 @@ console.log(list)
 list.push("Last ITEM")
 console.log(list)
 console.log("######################################################")
-console.log(list.pop())
+console.log(list.shift())
 console.log("###############traverse after pop#####################")
 console.log(list)
