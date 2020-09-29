@@ -20,15 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/DLL_Get.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/DLL_Insert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/DLL_Remove.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/DLL_Set.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/DLL_Shift.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/DLL_Unshift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Recursion_Pure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Recusion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/helperMethodRecursion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/DLL_Pop.js" beforeDir="false" afterPath="$PROJECT_DIR$/DoublyLinkedList/DLL_Pop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/DLL_Push.js" beforeDir="false" afterPath="$PROJECT_DIR$/DoublyLinkedList/DLL_Push.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/Same.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/Same.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/anagram.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/anagram.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/binary_search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/binary_search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/countUniqueValues.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/countUniqueValues.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/max_Sum.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/max_Sum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/max_sum_refactor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/max_sum_refactor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/naive_search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/naive_search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/same_refactor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/same_refactor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/sum_zero_naive.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/sum_zero_naive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving Patterns/sum_zero_refactor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving Patterns/sum_zero_refactor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,36 +73,37 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/StacksAndQueues" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DoublyLinkedList" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Recursion" />
+      <recent name="$PROJECT_DIR$/StacksAndQueues" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.DLL_Remove.js">
-    <configuration name="DLL_Get.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DoublyLinkedList/DLL_Get.js" working-dir="$PROJECT_DIR$/DoublyLinkedList">
+  <component name="RunManager" selected="Node.js.Recursion_Pure.js">
+    <configuration name="Factorial.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Recursion/Factorial.js" working-dir="$PROJECT_DIR$/Recursion">
       <method v="2" />
     </configuration>
-    <configuration name="DLL_Insert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DoublyLinkedList/DLL_Insert.js" working-dir="$PROJECT_DIR$/DoublyLinkedList">
+    <configuration name="Recursion_Pure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Recursion/Recursion_Pure.js" working-dir="$PROJECT_DIR$/Recursion">
       <method v="2" />
     </configuration>
-    <configuration name="DLL_Remove.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DoublyLinkedList/DLL_Remove.js" working-dir="$PROJECT_DIR$/DoublyLinkedList">
+    <configuration name="Recusion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Recursion/Recusion.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="DLL_Set.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DoublyLinkedList/DLL_Set.js" working-dir="$PROJECT_DIR$/DoublyLinkedList">
+    <configuration name="binary_search.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Problem Solving Patterns/binary_search.js" working-dir="$PROJECT_DIR$/Problem Solving Patterns">
       <method v="2" />
     </configuration>
-    <configuration name="DLL_Unshift.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DoublyLinkedList/DLL_Unshift.js" working-dir="$PROJECT_DIR$/DoublyLinkedList">
+    <configuration name="helperMethodRecursion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Recursion/helperMethodRecursion.js" working-dir="$PROJECT_DIR$/Recursion">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.DLL_Remove.js" />
-        <item itemvalue="Node.js.DLL_Insert.js" />
-        <item itemvalue="Node.js.DLL_Set.js" />
-        <item itemvalue="Node.js.DLL_Get.js" />
-        <item itemvalue="Node.js.DLL_Unshift.js" />
+        <item itemvalue="Node.js.Recursion_Pure.js" />
+        <item itemvalue="Node.js.helperMethodRecursion.js" />
+        <item itemvalue="Node.js.Factorial.js" />
+        <item itemvalue="Node.js.Recusion.js" />
+        <item itemvalue="Node.js.binary_search.js" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +137,10 @@
       <workItem from="1600907036773" duration="6650000" />
       <workItem from="1600993724761" duration="13557000" />
       <workItem from="1601087971878" duration="3470000" />
-      <workItem from="1601165244836" duration="13146000" />
+      <workItem from="1601165244836" duration="13257000" />
+      <workItem from="1601252690690" duration="868000" />
+      <workItem from="1601253580140" duration="8152000" />
+      <workItem from="1601338663853" duration="5645000" />
     </task>
     <servers />
   </component>
@@ -150,21 +160,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="486" key="GridCell.Tab.0.bottom" timestamp="1601180379279">
+    <state width="1343" height="481" key="GridCell.Tab.0.bottom" timestamp="1601345897775">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="486" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601180379279" />
-    <state width="1343" height="486" key="GridCell.Tab.0.center" timestamp="1601180379278">
+    <state width="1343" height="481" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601345897775" />
+    <state width="1343" height="481" key="GridCell.Tab.0.center" timestamp="1601345897774">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="486" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601180379278" />
-    <state width="1343" height="486" key="GridCell.Tab.0.left" timestamp="1601180379278">
+    <state width="1343" height="481" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601345897774" />
+    <state width="1343" height="481" key="GridCell.Tab.0.left" timestamp="1601345897774">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="486" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601180379278" />
-    <state width="1343" height="486" key="GridCell.Tab.0.right" timestamp="1601180379279">
+    <state width="1343" height="481" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601345897774" />
+    <state width="1343" height="481" key="GridCell.Tab.0.right" timestamp="1601345897775">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="486" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601180379279" />
+    <state width="1343" height="481" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601345897775" />
   </component>
 </project>
