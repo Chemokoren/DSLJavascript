@@ -51,7 +51,7 @@ class WeightedGraph{
         }
         //as long as there is something to visit
         while(nodes.values.length){
-            smallest =nodes.dequeue().val;
+            smallest = nodes.dequeue().val;
             if(smallest === finish){
                 // console.log(distances)
                 // console.log(previous)
@@ -69,7 +69,7 @@ class WeightedGraph{
                     let nextNode =this.adjacencyList[smallest][neighbor];
 
                     //calculate new distance to neighboring node
-                    let candidate =distances[smallest]+nextNode.weight;
+                    let candidate = distances[smallest]+nextNode.weight;
                     let nextNeighbor =nextNode.node
                     if(candidate < distances[nextNeighbor]){
                         //updating new smallest distance to neighbor
