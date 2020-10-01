@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Searching Algorithms/Search_Binary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching Algorithms/Search_Linear.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching Algorithms/Search_Naive_String.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Sort_Bubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/inbuilt_js_sort.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +69,7 @@
       <recent name="$PROJECT_DIR$/StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Search_Naive_String.js">
-    <configuration name="Recursion_Pure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Recursion/Recursion_Pure.js" working-dir="$PROJECT_DIR$/Recursion">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.Sort_Bubble.js">
     <configuration name="Search_Binary.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Searching Algorithms/Search_Binary.js" working-dir="$PROJECT_DIR$/Searching Algorithms">
       <method v="2" />
     </configuration>
@@ -84,16 +79,19 @@
     <configuration name="Search_Naive_String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Searching Algorithms/Search_Naive_String.js" working-dir="$PROJECT_DIR$/Searching Algorithms">
       <method v="2" />
     </configuration>
-    <configuration name="helperMethodRecursion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Recursion/helperMethodRecursion.js" working-dir="$PROJECT_DIR$/Recursion">
+    <configuration name="Sort_Bubble.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/Sort_Bubble.js" working-dir="$PROJECT_DIR$/Sorting">
+      <method v="2" />
+    </configuration>
+    <configuration name="inbuilt_js_sort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/inbuilt_js_sort.js" working-dir="$PROJECT_DIR$/Sorting">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Sort_Bubble.js" />
+        <item itemvalue="Node.js.inbuilt_js_sort.js" />
         <item itemvalue="Node.js.Search_Naive_String.js" />
         <item itemvalue="Node.js.Search_Binary.js" />
         <item itemvalue="Node.js.Search_Linear.js" />
-        <item itemvalue="Node.js.Recursion_Pure.js" />
-        <item itemvalue="Node.js.helperMethodRecursion.js" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +129,8 @@
       <workItem from="1601252690690" duration="868000" />
       <workItem from="1601253580140" duration="8152000" />
       <workItem from="1601338663853" duration="6471000" />
-      <workItem from="1601425241774" duration="8881000" />
+      <workItem from="1601425241774" duration="9534000" />
+      <workItem from="1601517758761" duration="5990000" />
     </task>
     <servers />
   </component>
@@ -151,21 +150,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="369" key="GridCell.Tab.0.bottom" timestamp="1601435364155">
+    <state width="1343" height="493" key="GridCell.Tab.0.bottom" timestamp="1601524406152">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="369" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601435364155" />
-    <state width="1343" height="369" key="GridCell.Tab.0.center" timestamp="1601435364154">
+    <state width="1343" height="493" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601524406152" />
+    <state width="1343" height="493" key="GridCell.Tab.0.center" timestamp="1601524406151">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="369" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601435364154" />
-    <state width="1343" height="369" key="GridCell.Tab.0.left" timestamp="1601435364154">
+    <state width="1343" height="493" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601524406151" />
+    <state width="1343" height="493" key="GridCell.Tab.0.left" timestamp="1601524406150">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="369" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601435364154" />
-    <state width="1343" height="369" key="GridCell.Tab.0.right" timestamp="1601435364155">
+    <state width="1343" height="493" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601524406150" />
+    <state width="1343" height="493" key="GridCell.Tab.0.right" timestamp="1601524406151">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="369" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601435364155" />
+    <state width="1343" height="493" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601524406151" />
   </component>
 </project>
