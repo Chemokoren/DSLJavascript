@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sorting/sort_selection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/sort_insertion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,10 +68,7 @@
       <recent name="$PROJECT_DIR$/StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.sort_selection.js">
-    <configuration name="Search_Binary.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Searching Algorithms/Search_Binary.js" working-dir="$PROJECT_DIR$/Searching Algorithms">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.sort_insertion.js">
     <configuration name="Search_Naive_String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Searching Algorithms/Search_Naive_String.js" working-dir="$PROJECT_DIR$/Searching Algorithms">
       <method v="2" />
     </configuration>
@@ -81,16 +78,19 @@
     <configuration name="inbuilt_js_sort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/inbuilt_js_sort.js" working-dir="$PROJECT_DIR$/Sorting">
       <method v="2" />
     </configuration>
+    <configuration name="sort_insertion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/sort_insertion.js" working-dir="$PROJECT_DIR$/Sorting">
+      <method v="2" />
+    </configuration>
     <configuration name="sort_selection.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/sort_selection.js" working-dir="$PROJECT_DIR$/Sorting">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.sort_insertion.js" />
         <item itemvalue="Node.js.sort_selection.js" />
         <item itemvalue="Node.js.Sort_Bubble.js" />
         <item itemvalue="Node.js.inbuilt_js_sort.js" />
         <item itemvalue="Node.js.Search_Naive_String.js" />
-        <item itemvalue="Node.js.Search_Binary.js" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,8 @@
       <workItem from="1601338663853" duration="6471000" />
       <workItem from="1601425241774" duration="9534000" />
       <workItem from="1601517758761" duration="6249000" />
-      <workItem from="1601604102946" duration="5148000" />
+      <workItem from="1601604102946" duration="5385000" />
+      <workItem from="1601690852139" duration="3702000" />
     </task>
     <servers />
   </component>
@@ -150,21 +151,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="493" key="GridCell.Tab.0.bottom" timestamp="1601608607627">
+    <state width="1326" height="281" key="GridCell.Tab.0.bottom" timestamp="1601693588262">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="493" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601608607627" />
-    <state width="1343" height="493" key="GridCell.Tab.0.center" timestamp="1601608607626">
+    <state width="1326" height="281" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601693588262" />
+    <state width="1326" height="281" key="GridCell.Tab.0.center" timestamp="1601693588262">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="493" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601608607626" />
-    <state width="1343" height="493" key="GridCell.Tab.0.left" timestamp="1601608607626">
+    <state width="1326" height="281" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601693588262" />
+    <state width="1326" height="281" key="GridCell.Tab.0.left" timestamp="1601693588261">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="493" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601608607626" />
-    <state width="1343" height="493" key="GridCell.Tab.0.right" timestamp="1601608607626">
+    <state width="1326" height="281" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601693588261" />
+    <state width="1326" height="281" key="GridCell.Tab.0.right" timestamp="1601693588262">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="493" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601608607626" />
+    <state width="1326" height="281" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601693588262" />
   </component>
 </project>
