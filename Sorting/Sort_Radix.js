@@ -23,16 +23,18 @@ function radixSort(nums){
             let digit =getDigit(nums[i],k);
             digitBuckets[digit].push(nums[i]);
         }
+        console.log(digitBuckets)
         nums =[].concat(...digitBuckets);
+        console.log(nums)
     }
     return nums;
 
 }
-
+console.log([23,345,5467,12,2345,9852])
 console.log(radixSort([23,345,5467,12,2345,9852]))
 
-numVal =786463899;
-arrVal =[34, 7, 9998, 456, 789,786463899,76664, 37,787];
-console.log(getDigit(numVal, 5))
-console.log(digitCount(numVal))
-console.log(mostDigits(arrVal))
+// numVal =786463899;
+// arrVal =[34, 7, 9998, 456, 789,786463899,76664, 37,787];
+// console.log(getDigit(numVal, 5))
+// console.log(digitCount(numVal))
+// console.log(mostDigits(arrVal))
