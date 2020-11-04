@@ -69,8 +69,8 @@ class WeightedGraph{
                     let nextNode =this.adjacencyList[smallest][neighbor];
 
                     //calculate new distance to neighboring node
-                    let candidate = distances[smallest]+nextNode.weight;
-                    let nextNeighbor =nextNode.node
+                    let candidate = distances[smallest] + nextNode.weight;
+                    let nextNeighbor = nextNode.node
                     if(candidate < distances[nextNeighbor]){
                         //updating new smallest distance to neighbor
                         distances[nextNeighbor] =candidate

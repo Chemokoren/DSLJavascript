@@ -29,6 +29,19 @@ class Graph {
         delete this.adjacencyList[vertex]
     }
 
+
+/*
+Pseudocode
+
+DFS(vertex):
+	if vertex is empty
+	    return (this is base case)
+	mark vertex as visited
+	add vertex to results list
+	for each neighbor in  vertex's neighbors:
+		if neighbor is not visited:
+		    recursively call DFS on neighbor
+ */
     depthFirstRecursive(start) {
         const result = [];
         const visited = {};

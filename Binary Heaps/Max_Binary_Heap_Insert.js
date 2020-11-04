@@ -22,7 +22,6 @@ class MaxBinaryHeap {
     }
 
     extractMax() {
-        //EDGE CASE COME BACK TO THIS!!
         const max = this.values[0];
         const end = this.values.pop();
         if (this.values.length > 0) {
@@ -58,7 +57,7 @@ class MaxBinaryHeap {
 
             }
             if(swap === null) break;
-            this.values[idx] =this.values[swap];
+            this.values[idx] = this.values[swap];
             this.values[swap] =element;
             idx =swap;
         }

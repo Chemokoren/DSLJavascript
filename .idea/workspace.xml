@@ -20,8 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DoSelectTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParseInteger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StacksAndQueues/StackImplementation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getDateFormat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/Sort_Radix.js" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/Sort_Radix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Heaps/Max_Binary_Heap_Insert.js" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Heaps/Max_Binary_Heap_Insert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graphs/Graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/Graph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StacksAndQueues/QueueUsingLinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/StacksAndQueues/QueueUsingLinkedList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,29 +78,29 @@
       <recent name="$PROJECT_DIR$/StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Sort_Radix.js">
-    <configuration name="Sort_Merge.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/Sort_Merge.js" working-dir="$PROJECT_DIR$/Sorting">
+  <component name="RunManager" selected="Node.js.PriorityQueue.js">
+    <configuration name="Dijkstra_First_Version.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Graphs/Dijkstra_First_Version.js" working-dir="$PROJECT_DIR$/Graphs">
       <method v="2" />
     </configuration>
-    <configuration name="Sort_Quick.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/Sort_Quick.js" working-dir="$PROJECT_DIR$/Sorting">
+    <configuration name="Max_Binary_Heap_Insert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Binary Heaps/Max_Binary_Heap_Insert.js" working-dir="$PROJECT_DIR$/Binary Heaps">
       <method v="2" />
     </configuration>
-    <configuration name="Sort_Radix.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/Sort_Radix.js" working-dir="$PROJECT_DIR$/Sorting">
+    <configuration name="PriorityQueue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Binary Heaps/PriorityQueue.js" working-dir="$PROJECT_DIR$/Binary Heaps">
       <method v="2" />
     </configuration>
-    <configuration name="sort_insertion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/sort_insertion.js" working-dir="$PROJECT_DIR$/Sorting">
+    <configuration name="StackImplementation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/StackImplementation.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
       <method v="2" />
     </configuration>
-    <configuration name="sort_selection.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sorting/sort_selection.js" working-dir="$PROJECT_DIR$/Sorting">
+    <configuration name="callstack.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/StacksAndQueues/callstack.js" working-dir="$PROJECT_DIR$/StacksAndQueues">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Sort_Radix.js" />
-        <item itemvalue="Node.js.Sort_Quick.js" />
-        <item itemvalue="Node.js.Sort_Merge.js" />
-        <item itemvalue="Node.js.sort_insertion.js" />
-        <item itemvalue="Node.js.sort_selection.js" />
+        <item itemvalue="Node.js.PriorityQueue.js" />
+        <item itemvalue="Node.js.Max_Binary_Heap_Insert.js" />
+        <item itemvalue="Node.js.Dijkstra_First_Version.js" />
+        <item itemvalue="Node.js.StackImplementation.js" />
+        <item itemvalue="Node.js.callstack.js" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +150,19 @@
       <workItem from="1602037633026" duration="3335000" />
       <workItem from="1602115419703" duration="4668000" />
       <workItem from="1602143570479" duration="30000" />
-      <workItem from="1602291494773" duration="2134000" />
+      <workItem from="1602291494773" duration="2790000" />
+      <workItem from="1602320529150" duration="448000" />
+      <workItem from="1603112103552" duration="1174000" />
+      <workItem from="1603153061259" duration="6384000" />
+      <workItem from="1603242428297" duration="2296000" />
+      <workItem from="1603769704205" duration="845000" />
+      <workItem from="1603851480735" duration="5091000" />
+      <workItem from="1603951080330" duration="6903000" />
+      <workItem from="1604011281603" duration="4881000" />
+      <workItem from="1604086903304" duration="3832000" />
+      <workItem from="1604283940625" duration="1849000" />
+      <workItem from="1604369348120" duration="5137000" />
+      <workItem from="1604455672939" duration="4764000" />
     </task>
     <servers />
   </component>
@@ -160,21 +182,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="367" key="GridCell.Tab.0.bottom" timestamp="1602294788729">
+    <state x="400" y="199" width="567" height="417" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603154984075">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="367" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602294788729" />
-    <state width="1343" height="367" key="GridCell.Tab.0.center" timestamp="1602294788728">
+    <state x="400" y="199" width="567" height="417" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1603154984075" />
+    <state width="1343" height="305" key="GridCell.Tab.0.bottom" timestamp="1604460820072">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="367" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1602294788728" />
-    <state width="1343" height="367" key="GridCell.Tab.0.left" timestamp="1602294788728">
+    <state width="1343" height="305" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1604460820072" />
+    <state width="1343" height="305" key="GridCell.Tab.0.center" timestamp="1604460820072">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="367" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1602294788728" />
-    <state width="1343" height="367" key="GridCell.Tab.0.right" timestamp="1602294788729">
+    <state width="1343" height="305" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1604460820072" />
+    <state width="1343" height="305" key="GridCell.Tab.0.left" timestamp="1604460820072">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="367" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1602294788729" />
+    <state width="1343" height="305" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1604460820072" />
+    <state width="1343" height="305" key="GridCell.Tab.0.right" timestamp="1604460820072">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="305" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1604460820072" />
   </component>
 </project>
