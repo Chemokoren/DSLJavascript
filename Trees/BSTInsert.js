@@ -13,7 +13,7 @@ class BinarySearchTree{
     insert(value){
         var newNode =new Node(value);
         if(this.root ===null){
-            this.root =newNode
+            this.root = newNode
             return this;
         }else{
             var current =this.root;
@@ -39,7 +39,7 @@ class BinarySearchTree{
     }
     find(value){
         if(this.root ===null) return 'I am absent';
-        var current =this.root, found =false;
+        var current = this.root, found =false;
         while(current && !found){
             if(value < current.value){
                 current =current.left;
@@ -51,6 +51,21 @@ class BinarySearchTree{
         }
         if(!found) return 'value not found'
         return current;
+    }
+
+    contains(value){
+        if(this.root === null) return false;
+        var current =this.root, found = false;
+        while(current && !found){
+            if(value < current.value){
+                current =current.left;
+            }else if(value > current.value){
+                current = current.right;
+            }else{
+                return true;
+            }
+        }
+        return false;
     }
 }
 
@@ -67,3 +82,5 @@ tree.insert(10)
 
 
 console.log(tree.find('1'))
+console.log("################# test contains ######################")
+console.log(tree.contains('10'))
