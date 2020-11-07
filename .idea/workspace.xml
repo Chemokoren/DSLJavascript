@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5d69bbad-fb72-40d7-b02a-ddb57d26d967" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BSTInsert.js" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/BSTInsert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearchTree.js" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/BinarySearchTree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS.js" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/TreeTraversal.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +60,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DoublyLinkedList" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Trees" />
       <recent name="$PROJECT_DIR$/Recursion" />
       <recent name="$PROJECT_DIR$/StacksAndQueues" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/DoublyLinkedList" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.BSTInsert.js">
@@ -155,7 +154,8 @@
       <workItem from="1604283940625" duration="1849000" />
       <workItem from="1604369348120" duration="5137000" />
       <workItem from="1604455672939" duration="4764000" />
-      <workItem from="1604632200727" duration="3115000" />
+      <workItem from="1604632200727" duration="3907000" />
+      <workItem from="1604714952858" duration="2502000" />
     </task>
     <servers />
   </component>
@@ -179,21 +179,21 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="400" y="199" width="567" height="417" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1603154984075" />
-    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1604634824977">
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1604637375536">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1604634824977" />
-    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1604634824976">
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1604637375536" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1604637375535">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1604634824976" />
-    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1604634824976">
+    <state width="1343" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1604637375535" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1604637375535">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1604634824976" />
-    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1604634824977">
+    <state width="1343" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1604637375535" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1604637375536">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1604634824977" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1604637375536" />
   </component>
 </project>
